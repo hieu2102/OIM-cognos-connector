@@ -1,0 +1,10 @@
+JarIndex-Version: 1.0
+
+org.identityconnectors.genericrest-1.0.1115.jar
+lib
+org
+org/identityconnectors
+org/identityconnectors/genericrest
+org/identityconnectors/genericrest/utils
+THIRDPARTYREADME.txt
+
